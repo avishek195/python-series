@@ -1,0 +1,1 @@
+[{"name": "avishek", "email": "avishekmistry420@gmail.com", "password": "avi", "Balance": 50000}, {"name": "arpi", "email": "arpi@gmail.com", "password": "arpi", "Balance": 30000}, {"name": "ari", "email": "ari@gmail.com", "password": "ari", "Balance": 0}, {"name": "edur", "email": "edur@gmail.com", "password": "edur", "Balance": 500000}]
